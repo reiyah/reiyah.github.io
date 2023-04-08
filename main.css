@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+.redStar{
+	color: red;
+}
+
+#pic1{
+	width: 50%;
+	height: auto;
+}
+
+#epsilon{
+	width: 35%;
+	height: auto;
+}
+
+#work1{
+	width: 65%;
+	height: auto;
+}
+
+#cusInfo{
+	background-color: aliceblue;
+}
+
+#legend{
+	background-color: darkblue;
+	color: aliceblue;
+}
+
+#main{
+	position: relative;
+	overflow: auto;
+	padding-bottom: 2.5rem; /* Footer height*/
+}
+
+#mathimg1{
+	padding-right: 5px;
+	padding-bottom: 10px;
+	/*text-align: center;
+	font-weight: 100;*/
+	position: absolute;
+}
+
+#rel-img{
+	padding-right: 5px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-weight: 100;
+	position: relative;
+}
+
+#rel-text{
+	font-size: 100%;
+	position: relative;
+}
+
+h1   {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color: #FFFFFF;
+	background-color: #000A75;
+	text-align: center;
+}
+nav li {
+	list-style-type: none;
+	text-align: right;
+	background-color: #DDEAFF;
+	color: #000000;
+}
+body header {
+	padding-top: 0.2rem;
+	background-color: #000A75;
+}
+h3 {
+	color: #1A75E0;
+}
+p {
+	color: #000000;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body footer {
+	/*
+	bottom: 0;
+	width: 100%;*/
+	padding-top: 5px;
+	margin-top: 1rem;
+	position: relative;
+	margin-bottom: -2.5rem;
+	height: 2.5rem;
+	clear: both;
+	text-align: center;
+	background-color: #000A75;
+	color: #FFFFFF;
+}
